@@ -569,7 +569,7 @@
   </url>
   
   <url>
-    <loc>https://lukme.top/life/movies/index.html</loc>
+    <loc>https://lukme.top/box/nav/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -578,7 +578,7 @@
   </url>
   
   <url>
-    <loc>https://lukme.top/box/nav/index.html</loc>
+    <loc>https://lukme.top/life/movies/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -675,14 +675,14 @@
   </url>
   
   <url>
-    <loc>https://lukme.top/tags/zabbix/</loc>
+    <loc>https://lukme.top/tags/MHA/</loc>
     <lastmod>2024-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lukme.top/tags/MHA/</loc>
+    <loc>https://lukme.top/tags/zabbix/</loc>
     <lastmod>2024-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
