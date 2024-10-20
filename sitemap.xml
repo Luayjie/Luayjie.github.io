@@ -605,7 +605,7 @@
   </url>
   
   <url>
-    <loc>https://lukme.top/life/music/index.html</loc>
+    <loc>https://lukme.top/personal/about/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -614,7 +614,7 @@
   </url>
   
   <url>
-    <loc>https://lukme.top/personal/about/index.html</loc>
+    <loc>https://lukme.top/life/music/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -632,7 +632,7 @@
   </url>
   
   <url>
-    <loc>https://lukme.top/site/census/index.html</loc>
+    <loc>https://lukme.top/site/time/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -641,7 +641,7 @@
   </url>
   
   <url>
-    <loc>https://lukme.top/site/time/index.html</loc>
+    <loc>https://lukme.top/site/census/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -707,14 +707,14 @@
   </url>
   
   <url>
-    <loc>https://lukme.top/tags/kubernetes/</loc>
+    <loc>https://lukme.top/tags/markdown/</loc>
     <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lukme.top/tags/markdown/</loc>
+    <loc>https://lukme.top/tags/kubernetes/</loc>
     <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
