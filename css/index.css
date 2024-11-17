@@ -6471,43 +6471,43 @@ blockquote.pullquote.right {
 /* 字体引入 */
 @font-face {
   font-family: YSHST;
-  src: url(https://data-static.netdun.net/Fomalhaut/fonts/优设好身体.woff2);
+  src: url(https://cos.lukme.top/lukme/fonts/优设好身体.woff2);
   font-display: swap;
 }
 
 @font-face {
   font-family: MiSans;
-  src: url(https://data-static.netdun.net/Fomalhaut/fonts/MiSans.woff2);
+  src: url(https://cos.lukme.top/lukme/fonts/MiSans.woff2);
   font-display: swap;
 }
 
 @font-face {
   font-family: HYTMR;
-  src: url(https://data-static.netdun.net/Fomalhaut/fonts/HYTangMeiRen55W.woff2);
+  src: url(https://cos.lukme.top/lukme/fonts/HYTangMeiRen55W.woff2);
   font-display: swap;
 }
 
 @font-face {
   font-family: LXGW;
-  src: url(https://data-static.netdun.net/Fomalhaut/fonts/霞鹜文楷.woff2);
+  src: url(https://cos.lukme.top/lukme/fonts/霞鹜文楷.woff2);
   font-display: swap;
 }
 
 @font-face {
   font-family: TTQHB;
-  src: url(https://data-static.netdun.net/Fomalhaut/fonts/甜甜圈海报字体.woff2);
+  src: url(https://cos.lukme.top/lukme/fonts/甜甜圈海报字体.woff2);
   font-display: swap;
 }
 
 @font-face {
   font-family: Consolas_1;
-  src: url(https://data-static.netdun.net/Fomalhaut/fonts/Consolas.woff2);
+  src: url(https://cos.lukme.top/lukme/fonts/Consolas.woff2);
   font-display: swap;
 }
 
 @font-face {
   font-family: ZhuZiAWan;
-  src: url(https://data-static.netdun.net/Fomalhaut/fonts/ZhuZiAWan2.woff2);
+  src: url(https://cos.lukme.top/lukme/fonts/ZhuZiAWan2.woff2);
   font-display: swap;
 }
 
@@ -7590,7 +7590,7 @@ button#go-up:hover #percent {
 
 /* 个人信息卡片背景图 */
 [data-theme="light"] #aside-content > .card-widget.card-info {
-  background-image: url(https://luay-1302975046.cos.ap-shanghai.myqcloud.com/lukme/touxiangKPBG.png);
+  background-image: url(https://cos.lukme.top/lukme/touxiangKPBG.png);
   background-repeat: no-repeat;
   background-attachment: inherit;
   background-size: 100%;
