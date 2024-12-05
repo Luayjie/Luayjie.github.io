@@ -794,6 +794,24 @@
   </url>
   
   <url>
+    <loc>https://lukme.top/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lukme.top/personal/about/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lukme.top/life/movies/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
@@ -812,15 +830,6 @@
   </url>
   
   <url>
-    <loc>https://lukme.top/site/census/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://lukme.top/site/time/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
@@ -830,16 +839,7 @@
   </url>
   
   <url>
-    <loc>https://lukme.top/personal/about/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lukme.top/personal/love/index.html</loc>
+    <loc>https://lukme.top/site/census/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
